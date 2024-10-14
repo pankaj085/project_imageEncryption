@@ -17,3 +17,6 @@ Clear feedback on whether a file is encrypted or decrypted, and prompts for pass
 Threading:Implements threading for smooth UI interaction during encryption or decryption processes.
 
 This project provides a straightforward solution for anyone needing to protect their data from unauthorized access.
+
+
+original work: https://github.com/MadhavMalik/MadhavMalik | https://www.linkedin.com/in/madhavmalik/
