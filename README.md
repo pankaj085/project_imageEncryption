@@ -19,4 +19,4 @@ Threading:Implements threading for smooth UI interaction during encryption or de
 This project provides a straightforward solution for anyone needing to protect their data from unauthorized access.
 
 
-original work: https://github.com/MadhavMalik/MadhavMalik | https://www.linkedin.com/in/madhavmalik/
+original GUI work: https://github.com/MadhavMalik/MadhavMalik | https://www.linkedin.com/in/madhavmalik/
